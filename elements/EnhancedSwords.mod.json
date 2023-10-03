@@ -1,0 +1,11 @@
+{
+  "_fv": 47,
+  "_type": "tab",
+  "definition": {
+    "name": "Enhanced Swords",
+    "icon": {
+      "value": "Blocks.NETHERITE_BLOCK"
+    },
+    "showSearch": false
+  }
+}

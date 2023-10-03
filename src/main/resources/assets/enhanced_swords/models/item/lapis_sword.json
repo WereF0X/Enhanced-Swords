@@ -1,0 +1,9 @@
+{
+  "parent": "enhanced_swords:custom/sword2",
+  "textures": {
+    "0": "enhanced_swords:block/swordtexture",
+    "1": "enhanced_swords:block/swordtexture2png",
+    "missing": "enhanced_swords:block/",
+    "particle": "enhanced_swords:item/texture3"
+  }
+}
